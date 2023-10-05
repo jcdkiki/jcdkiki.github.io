@@ -1,0 +1,39 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 150%;
+    font-size: large;
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 85%;
+    max-width: 600px;
+}
+
+h1 {
+    font-weight: 900;
+    text-align: center;
+    letter-spacing: 3px;
+    line-height: 125%;
+}
+
+h2 {
+    font-weight: 900;
+    letter-spacing: 2px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+hr {
+    align-self: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.endtext {
+    color: darkgray;
+    font-size: smaller;
+}
