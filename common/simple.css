@@ -1,10 +1,10 @@
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 150%;
     font-size: large;
 }
 
-div {
+.mainblock {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -36,4 +36,11 @@ hr {
 .endtext {
     color: darkgray;
     font-size: smaller;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 5px
 }
